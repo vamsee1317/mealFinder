@@ -3,3 +3,9 @@ h1{
     background-color: grey;
     padding: 10px;
 }
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
